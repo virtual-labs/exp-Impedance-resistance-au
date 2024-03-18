@@ -4,7 +4,7 @@
 <b>Discipline | <b> Biotechnology and Biomedical Engineering
 :--|:--|
 <b> Lab | <b> Biosensor Lab
-<b> Experiment|     <b> Proton Exchange Membranes
+<b> Experiment|     <b> Impedance/resistance experiment using source meter
 
 ### About the Experiment 
 
