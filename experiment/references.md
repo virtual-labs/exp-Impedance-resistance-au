@@ -1,15 +1,11 @@
 ### References
 
-1.	Madhavan, A., Prasad, M., Girish, S., Shetty, K. S., & Nair, B. (2017, December). Caulobacter crescentus as a novel exoelectricigen in a dual chambered microbial fuel cell (MFC). In 2017 International Conference on Technological Advancements in Power and Energy (TAP Energy) (pp. 1-4). IEEE.
+1.	Santoro, C., Arbizzani, C., Erable, B. and Ieropoulos, I., 2017. Microbial fuel cells: From fundamentals to applications. A review. Journal of power sources, 356, pp.225-244.
 
-2.	Ichihashi, O., Tada, C., & Nakai, Y. (2011). Power generation from animal wastewater using microbial fuel cell. J Integr Field Sci, 8, 13-20.)
+2.	Slate, A.J., Whitehead, K.A., Brownson, D.A. and Banks, C.E., 2019. Microbial fuel cells: An overview of current technology. Renewable and sustainable energy reviews, 101, pp.60-81.
 
-3.	Abavisani, F., Mahdavi, M. A., & Gheshlaghi, R. (2019, July). Energy harvesting from microbial fuel cell using a power management system: A review. In Proceedings of the 3rd International Conference on Innovation and Research in Engineering Science, Tbilisi, Georgia (pp. 1-5). 
+3.	Logan, B.E., 2010. Scaling up microbial fuel cells and other bioelectrochemical systems. Applied microbiology and biotechnology, 85, pp.1665-1671.
 
-4.	Chen, G. W., Choi, S. J., Lee, T. H., Lee, G. Y., Cha, J. H., & Kim, C. W. (2008). Application of biocathode in microbial fuel cells: cell performance and microbial community. Applied microbiology and biotechnology, 79, 379-388.
+4.	Apollon, W., 2023. An Overview of Microbial Fuel Cell Technology for Sustainable Electricity Production. Membranes, 13(11), p.884.
 
-5.	Du, Z., Li, H., & Gu, T. (2007). A state of the art review on microbial fuel cells: a promising technology for wastewater treatment and bioenergy. Biotechnology advances, 25(5), 464-482.
-
-6.	Lovley, D. R. (2008). The microbe electric: conversion of organic matter to electricity. Current opinion in Biotechnology, 19(6), 564-571.
-
-7.	McAveney, P., Pedersen, B., & Wong, J. C. (2012). Microbial Fuel Cell Using Inexpensive Materials.
+5.	Park, D.H. and Zeikus, J.G., 2003. Improved fuel cell and electrode designs for producing electricity from microbial degradation. Biotechnology and bioengineering, 81(3), pp.348-355.
