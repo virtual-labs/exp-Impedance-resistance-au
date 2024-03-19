@@ -1,73 +1,54 @@
 ### Introduction
 
-In today’s world, both industrial and domestic purposes focus on using electricity from non-renewable sources which may be leading to global energy crisis in the future. As an add on to this, research has been widening to devise technologies which employ alternate renewable energy sources. Efforts to use microorganisms to generate power from biodegradable waste materials (substrates) and organic wastes that were first illustrated by Dr. M. C. Potter, professor at the University of Durham in the UK, who depicted E. coli produced electricity using platinum electrodes and organic substrate and this led to the foundation of constructing primary microbial fuel cell. The maximum voltage recorded for this experimentation was 0.5V indicating the role of bacteria in generating electric current. Later from 1990s, MFCs were considered as promising technology, due to its low energy consumption and chemical usage and ample bioenergy production bridging the energy crisis with renewable energy thereby attaining sustainable goals in energy production with environmental safety.
+Microbial fuel cells (MFCs) are alternative energy sources that convert chemical energy in the organic matter present in wastewater into electrical energy. This technology has been of particular interest in the last few decades and significant efforts have been made to intensify the commercialization of MFC technology. It has been noted that the power output of MFCs in laboratory settings is very low making it insignificant for practical applications and large-scale production and utilization of electric current. This is due to the high internal resistance of MFCs, which needs to be addressed to enhance the utility of MFCs. This highlighted the need for the optimization of the construction factors of MFCs that could reduce impedance or resistance in MFCs thereby improving the electrochemical behavior and overall performance and efficiency of the MFC in a laboratory setting.
 
-&nbsp;
+### Theory
 
-### Theory &nbsp;
+In a microbial fuel cell, impedance or resistance indicates the opposition to the flow of electrical current through the components of the cell.  The characteristics of impedance or resistance in an MFC evaluate its electrochemical behavior, performance, and overall efficiency of the system. Minimizing the impedance or resistance within the MFC is the only way to improve the power output of the system and the resulting power could be used for various applications including wastewater treatment, biosensing, and other environmental and energy-related applications. For the commercialization of MFC at a large scale, the performance needs to be enhanced at a significant level. Selecting proper MFC components and optimizing the physical and chemical parameters boost the efficiency of MFCs and subsequently reduce the manufacturing cost. The power output of the MFC depends directly on the selection of electrode and its size, biocatalysts, pH and ionic concentration of anolyte and catholyte, characteristics of electron donor and electron acceptors, the temperature of the system, and so on that that reduces the internal resistance and increases the columbic efficiency. 
 
-Due to the increase in population and industrial development, there has been a significant rise in world power consumption where coal, oil, gas, and fossil fuels as the only dependent energy sources. This may pose not only energy-related issues but also environmental issues such as green house effect and ozone depletion. To overcome these issues, studies have been focusing on finding eco-friendly, sustainable, and reliable renewable energy sources with zero or minimal harm to the ecosystem. Microbial fuel cells are gaining attention in scientific community as it is a renewable and cost-effective approach for generating electricity without relying on fossil fuels. The design and construction of a typical microbial fuel cell in a laboratory condition is discussed in (link). This is thought to be a green approach in wastewater treatment, biosensors for water quality checking as it reduces methane gas production as microbes in MFC generate electrons for producing electrical signal (Fig.1). MFC’s are an evolving technology that produces lower power output when compared with other conventional energy sources that need further research and development for promising environmental outcomes. 
+This experiment highlights the design parameters of the MFC to improve the performance of the MFC in a laboratory setting.
+
+### Design of a Microbial Fuel Cell
+
+A typical MFC consists of anodic and cathodic compartments separated by a cation (positively charged ion) specific membrane (Fig.1). The microorganisms in the anodic compartment of MFCs are exoelectrogenic in nature and generate electrons, protons, carbon dioxide, and other metabolic products by metabolizing organic matter. The electrons are transferred externally to the cathodic chamber with simultaneous production of electricity. The generated protons in the anodic compartment are transported to the cathodic chamber through the proton exchange membrane, and the protons and electrons in the cathodic chamber combine with oxygen to produce water molecules. This redox reaction completes the electron transfer cycle, and the generated electricity can be used for sensors or working any small electronic devices. 
 
 &nbsp;
 <img src="images/1.png" title="" />
 
- Fig.1. MFC as an evolving technology and green approach power generation and environmental benefits (Adapted from Malik, S., Kishore, S., Dhasmana, A., Kumari, P., Mitra, T., Chaudhary, V., ... & Rajput, V. D. (2023). A Perspective Review on Microbial Fuel Cells in Treatment and Product Recovery from Wastewater. Water, 15(2), 316)
+Fig.1. Design of a microbial fuel cell
 
+Adapted from: Apollon, W., 2023. An Overview of Microbial Fuel Cell Technology for Sustainable Electricity Production. Membranes, 13(11), p.884.
 
-Measuring the current production in a Microbial Fuel Cell (MFC) is a crucial step that determines the performance of the MFC. In a laboratory, polarization curves illustrate the current density as a function of voltage (the electric potential of the electrodes were plotted to study the efficiency of MFCs under different operating conditions. That is, a polarization curve is a graphical representation of the relationship between the electrical potential (voltage) and the current produced by the cell. To start functioning, in all typical MFCs, the anode in the anode compartment and the cathode in the cathode compartment were connected and electrolytes were added in both the chamber. To create a closed circuit for measuring the generated power, a load resistor is connected externally. The resistor simulates an electrical device that draws current from the MFC. The voltage generated by the MFC will cause current to flow through the circuit (Fig.2). Generally, a source meter is connected that can source a voltage and can measure current at the same time or it can source current and can measure the voltage at given time. For all MFCs, Ohm’s law was used to calculate the corresponding current.
+#### Factors contributing to impedance or resistance in an MFC
 
-&nbsp;
+Some key factors contribute to impedance in an MFC. It is crucial to optimize those factors during the design and construction of MFC to improve its performance and power generation efficiency.  Exoelectricigens present in the anodic chamber are important for MFC performance due to their metabolic properties and the mediators that are used by them for transferring electrons to the anode. While design considerations, operating conditions such as pH, temperature, ionic strength of the mediums, material, and construction of the anode, cathode, and proton exchange membrane could have a considerable impact on the bioelectricity generation.
 
-Ohm's law (I = V / R)
+##### 1.	Electrode Material and Geometry
 
-where:
+The choice of electrode material and its geometry has a crucial role in determining the power generation, efficiency, and long-term stability of the MFC. The electrode materials should possess higher electrical conductivity that facilitates the efficient transfer of electrons between the microbial biofilm and the electrode surface. The commonly used electrodes in the MFC are graphite, carbon cloth, and carbon nanotubes owing to their high conductivity. Electrodes modified with catalysts platinum or other noble metals, can boost the redox reactions and improve MFC performance. The surface area of the electrodes is a significant contributor to power efficiency in a MFC. The higher surface area of the electrode materials (electrodes with higher surface-to-volume ratios) contributes to more active sites for the attachment of microorganisms to form biofilm resulting in increased microbial activity and electron transfer efficiency. Also, the electrode material must possess chemical stability by resisting corrosion by the electrolytes and microbial metabolites to ensure long-term stability and overall improvement in MFC performance. 
 
-I = current in Amperes (A),
+##### 2.	Spacing of Electrodes
 
-V = voltage in Volts (V), 
+The spacing between the electrodes in an MFC contributes to the overall performance of the MFC. The distance between the cathode and anode determines the efficiency of electron transfer within the MFC. When electrons are generated in the anodic chamber by microbial metabolism, the minimal distance between the anode and cathode ensures the transfer of electrons from the anode to the cathode and favors the reduction reaction. The larger the distance between the electrodes, the larger the distance over which the electrons and H+ ions must move to the cathodic compartment leading to higher internal resistance and lower power output. There will be higher ohmic losses with the increase in electrode spacing reducing the overall efficiency of the MFC. The mass transport in the system is also altered with increased electrode distance by hindering the substrate metabolism and microbial activity followed by hindering the redox reaction and the performance of the MFC. Optimal spacing of electrodes is also important for promoting uniform biofilm growth for the electron transfer mechanism. 
 
-R = resistance of the load or resistor in Ohms (Ω).
+##### 3.	Biofilm Formation
 
-&nbsp;
-
-By plotting current (I) against voltage (V), researchers can determine the voltage and current at which the MFC operates optimally and quantify the maximum power output. 
-
-Current density was calculated as I = V/A, where V (mV) is the voltage and A (m2) the geometric surface area of the anode electrode. Power density (mW/m2) was calculated as P = IV
-
-
+The formation of biofilm on the surface of electrodes is directly related to the impedance or resistance in a MFC (Fig.2). As the biofilm grows thicker on the anode surface, there will be limitations to the diffusion of substrates and other products involved in microbial metabolism in the anodic chamber. This limits the transport of electrons, protons, and nutrients to and fro to anode and cathode surface creating a higher impedance. The extracellular polymeric substances (EPS) in the biofilms obstruct the electron transfer pathways in the system.  That indicates that the thicker the biofilm the higher the resistance properties contributing to increased impedance in the MFC. The formation of biofilm in the electrode surface depends on the availability of the substrate, concentrations of the nutrients, and the operating condition of the bioreactor. Optimizing these conditions could prevent the formation of thick biofilm minimizing the impedance in the MFC. Over a while, biofilm sloughing can occur which exposes the anode surfaces and reduces the impedance. 
 
 &nbsp;
 <img src="images/2.png" title="" />
 
-Fig.2. Diagram of a microbial fuel cell with an open circuit for plotting polarization curve (Adapted from Abavisani, F., Mahdavi, M. A., & Gheshlaghi, R. (2019, July). Energy harvesting from microbial fuel cell using a power management system: A review. In Proceedings of the 3rd International Conference on Innovation and Research in Engineering Science, Tbilisi, Georgia (pp. 1-5). 
+Fig 2. Biofilm formation on the surface of the anode in the MFC
+
+Adapted from: Slate, A.J., Whitehead, K.A., Brownson, D.A. and Banks, C.E., 2019. Microbial fuel cells: An overview of current technology. Renewable and sustainable energy reviews, 101, pp.60-81.
+
+Apart from these, the common operating condition that contributes to impedance in the MFC include the pH and ionic strength of the anolyte that can alter microbial metabolism, ion transport, and biofilm formation and higher temperatures leading to enhanced microbial activity and an increase in electrolyte resistance, thus affecting impedance.
+
+The source meter can measure both voltage and current produced by the MFC to determine the performance and efficiency of the MFC system in a laboratory setting. 
 
 
-&nbsp;
-
-In a power density graph, maximum points indicate the maximum power on the curve. Apart from changing the external resistance, potentiostat and voltammetry approaches were implicated in most cases of MFC. A potentiostat functions to regulate the voltage that exists between two electrodes. In linear sweep voltammetry technique, two electrodes have sweeping voltage at a constant pace that guage the current. This also helps to obtain the relationship between anode and cathode. The slope of the polarization curve indicates the internal resistance of MFC that has impact on maximum output of power generated. 
-
-A polarization curve has two components: Anode polarization and Cathode Polarization. 
-
-In anode polarization, the curve has a voltage drop as a function of current between an anode (the electrode where organic matter is oxidized by microorganisms) and a reference electrode. The factors that affect the voltage drop include electrochemical losses, mass transfer restrictions, and internal resistance. As the voltage at the anode drops, there is a gradual increase in the current. In the cathode electrode, the electrons unite with an electron acceptor, usually oxygen, and produce a polarization curve.  Voltage increase occurs at the cathode relative to the reference electrode in accordance with the current gain. Like the anode, the cathode polarization curve is also influenced by internal resistance, electrochemical losses, and mass transfer restrictions.
-
-By plotting the anode and cathode polarization together, the overall cell voltage and power output at varying current densities can be calculated. The point of intersection of the two-polarization graph is indicative of Maximum Power Point, that is representative of the maximum power generated by the MFC. 
-
-&nbsp;
-
-&nbsp;
-<img src="images/3.png" title="" />
-
-Fig.3. Polarization curve and power density plot of a microbial fuel cell with swine wastewater as substrate. (Adapted from: Ichihashi, O., Tada, C., & Nakai, Y. (2011). Power generation from animal wastewater using microbial fuel cell. J Integr Field Sci, 8, 13-20.)
- 
-&nbsp;
 
 
-&nbsp;
-<img src="images/4.png" title="" />
 
 
-Fig.4. Polarization curve an MFC system in a laboratory condition with graphite sheet as the electrodes and nafion membrane as PEM (Adapted from Madhavan, A., Prasad, M., Girish, S., Shetty, K. S., & Nair, B. (2017, December). Caulobacter crescentus as a novel exoelectricigen in a dual chambered microbial fuel cell (MFC). In 2017 International Conference on Technological Advancements in Power and Energy (TAP Energy) (pp. 1-4). IEEE.)
 
-&nbsp;
-
-As the polarization curve is indicative of performance of a MFC, in a laboratory condition it is crucial to analyze the efficiency of MFC, and to identify limitations in the design strategy there by reconstruction of MFC with maximum energy production. The research community has been constantly improving the reactor design and operating conditions (such as changing electrodes, substrate, and microorganisms) for obtaining maximum power output and MFC efficiency. The drawbacks of polarization curves included not providing information regarding stable operation of MFCs, and the maximum current density produced could not be stable for longer period. 
