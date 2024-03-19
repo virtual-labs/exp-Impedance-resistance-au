@@ -1,7 +1,9 @@
 ### Learning Objectives
 
-•	To acquire skills in setting up and configuring Microbial Fuel Cells, including selection of appropriate electrodes, anolytes and catholytes. 
+•	To understand the design parameters of MFC that contributes to internal resistance called impedance to the flow of electrons and the subsequent current production. 
 
-•	To learn voltage and current measurement in MFC using cost-effective laboratory standards.
+•	To evaluate the factors that contributes to better performance of the MFC.
 
-•	To plot current and voltage curve over time and to analyse the variations and correlations in I-V current depending on the input parameters. 
+
+
+
