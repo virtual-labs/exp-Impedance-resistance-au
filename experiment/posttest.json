@@ -2,27 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Functions of a microbial fuel cell:",
+      "question": "1. What is your observation when the electrode distance is kept far in the simulator ?",
       "answers": {
-        "a": "Biosensor",
-        "b": "Waste water treatment",
-        "c": "Reducing greenhouse effect",
-        "d": "All the above"
+        "a": "Transfer of electrons not observed",
+        "b": "Higher resistance to transfer of electrons and protons",
+        "c": "Higher resistance to transfer of protons only",
+        "d": "Higher resistance to transfer of electrons only"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
 
 
     {
-      "question": "2. Power density is indicated in:",
+      "question": "2. What is your observation, when the biofilm formation is kept medium in the simulator ?",
       "answers": {
-        "a": "mW/cm2",
-        "b": "mV/m2",
-        "c": "mW/m2",
-        "d": "mV/cm2"
+        "a": "No bioelectricity production",
+        "b": "Electrons and protons move at a faster rate",
+        "c": "Electrons and protons move at a slower rate",
+        "d": "The movement of electrons and protons is not visualized"
       },
       
       "correctAnswer": "c",
@@ -31,26 +31,12 @@
 
 
     {
-      "question": "3. Power density depends on:",
+      "question": "3. From the simulator, what do you think is the relation between the surface area of electrodes and the performance efficiency of MFC ?",
       "answers": {
-        "a": "Current density",
-        "b": "Voltage",
-        "c": "Surface area of electrodes",
-        "d": "All the above"
-      },
-      
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-
-
-    {
-      "question": "4. Point of intersection of polarization curve indicates:",
-      "answers": {
-        "a": "Maximum power",
-        "b": "Minimum power",
-        "c": "Maximum voltage",
-        "d": "Minimum voltage"
+        "a": "Surface area of electrodes is directly related to the performance efficiency of MFC",
+        "b": "The surface area of electrodes is inversely related to the performance efficiency of MFC",
+        "c": "No relation between the surface area of electrodes and the performance efficiency of MFC",
+        "d": "Surface area is an independent factor in MFC"
       },
       
       "correctAnswer": "a",
@@ -59,15 +45,29 @@
 
 
     {
-      "question": "5. Polarization curve denotes",
+      "question": "4. Which of the following parameters contribute to the better performance of an MFC ?",
       "answers": {
-        "a": "Voltage density and internal resistance",
-        "b": "Current density as a function of voltage",
-        "c": "Current density and internal resistance",
-        "d": "Power generation and ohmic resistance"
+        "a": "The lower surface area of electrodes, medium biofilm formation, and positioning of electrodes closer",
+        "b": "The higher surface area of electrodes, low biofilm formation, and positioning of electrodes nearer",
+        "c": "The higher surface area of electrodes, high biofilm formation, and positioning of electrodes farthest",
+        "d": "The lower surface area of electrodes, high biofilm formation, positioning of electrodes nearer"
       },
       
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "5. Which of the following(s) contributes to greater impedance to the MFC in the simulator ?",
+      "answers": {
+        "a": "High Biofilm Formation",
+        "b": "The lower surface area of the electrodes",
+        "c": "Farthest electrode position",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
