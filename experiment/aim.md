@@ -5,5 +5,3 @@
 •	To evaluate the factors that contributes to better performance of the MFC.
 
 
-
-
